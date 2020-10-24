@@ -1,0 +1,16 @@
+node_modules
+next
+.next/cache/next-babel-loader/
+
+.next/
+
+.idea/
+
+dsc_logo.psd
+
+package-lock.json
+
+out/
+
+.env
+fakeData.js
